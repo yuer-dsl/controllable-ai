@@ -58,3 +58,70 @@ EDCA OS:
 
 Compliance flows one-way:
 
+Controllable AI Specification → EDCA OS Implementation
+
+
+Reverse interpretation is invalid.
+
+---
+
+## 5. Relationship to Other Components
+
+Within EDCA OS–based systems:
+
+- LSR Runtime is an optional execution control mechanism
+- Yuer DSL is an optional constraint expression language
+- V8.x variants are domain-specific system profiles
+
+None of these components:
+
+- Define Controllable AI
+- Are required for Controllable AI compliance
+- Hold governance authority
+
+---
+
+## 6. Non-Exclusivity Statement
+
+EDCA OS is **explicitly non-exclusive**.
+
+Other operating systems, runtimes, or architectures may implement
+Controllable AI principles without reference to EDCA OS.
+
+Such implementations are equally valid if compliant.
+
+---
+
+## 7. Prohibited Interpretations
+
+EDCA OS must NOT be described as:
+
+- “The official Controllable AI system”
+- “The Controllable AI standard”
+- “The governance layer”
+- “The regulatory solution”
+
+Any such description is incorrect.
+
+---
+
+## 8. Responsibility Statement
+
+EDCA OS does not assume responsibility for outcomes.
+
+Responsibility remains with:
+
+- Human operators
+- Organizations
+- Legal entities
+
+EDCA OS exists solely to **prevent unauthorized execution**.
+
+---
+
+## 9. Freeze Declaration
+
+This position is frozen.
+
+Future changes to EDCA OS functionality
+must NOT alter its position within the Controllable AI ecosystem.
